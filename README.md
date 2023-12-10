@@ -23,8 +23,6 @@ If shows "Cannot GET /", then server is running.
 3. Check the MongoDB if mock data is seed or not.
 
 ## Documentation
-1. "Letsbloom Developer Assignment Documentation" File contains the documentation.
-2. Use Postman to check the API Endpoints.
 ### Brief Overview
 #### Letsbloom Developer Assignment
 A simple RESTful API for managing a library system.
@@ -87,3 +85,4 @@ Parameter Required
 3. Status = 404
     Book Not Found
 
+### Use of Postman is recommended to check the API endpoints.
