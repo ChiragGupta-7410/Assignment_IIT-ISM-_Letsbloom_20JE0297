@@ -1,0 +1,82 @@
+[
+  {
+    "ISBN": 1000000000000,
+    "name": "Book 1",
+    "description": "Description 1",
+    "price": 200,
+    "stock": 50,
+    "rating": 5
+  },
+  {
+    "ISBN": 1000000000001,
+    "name": "Book 2",
+    "description": "Description 2",
+    "price": 2,
+    "stock": 500,
+    "rating": 2.55
+  },
+  {
+    "ISBN": 1000000000002,
+    "name": "Book 3",
+    "description": "Description 3",
+    "price": 25,
+    "stock": 15,
+    "rating": 2.5
+  },
+  {
+    "ISBN": 1000000000003,
+    "name": "Book 4",
+    "description": "Description 4",
+    "price": 15,
+    "stock": 5,
+    "rating": 3.5
+  },
+  {
+    "ISBN": 1000000000004,
+    "name": "Book 5",
+    "description": "Description 5",
+    "price": 150,
+    "stock": 80,
+    "rating": 4.5
+  },
+  {
+    "ISBN": 1000000000005,
+    "name": "Book 6",
+    "description": "Description 6",
+    "price": 45,
+    "stock": 54,
+    "rating": 3.4
+  },
+  {
+    "ISBN": 1000000000006,
+    "name": "Book 7",
+    "description": "Description 7",
+    "price": 452,
+    "stock": 124,
+    "rating": 4.2
+  },
+  {
+    "ISBN": 1000000000007,
+    "name": "Book 8",
+    "description": "Description 8",
+    "price": 685,
+    "stock": 198,
+    "rating": 4.69
+  },
+  {
+    "ISBN": 1000000000008,
+    "name": "Book 9",
+    "description": "Description 9",
+    "price": 120,
+    "stock": 500,
+    "rating": 5
+  },
+  {
+    "ISBN": 1000000000009,
+    "name": "Book 10",
+    "description": "Description 10",
+    "price": 200,
+    "stock": 100,
+    "rating": 1
+  }
+]
